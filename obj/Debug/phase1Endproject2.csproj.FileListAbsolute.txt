@@ -1,0 +1,8 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\phase1Endproject2\phase1Endproject2\bin\Debug\phase1Endproject2.exe.config
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\phase1Endproject2\phase1Endproject2\bin\Debug\phase1Endproject2.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\phase1Endproject2\phase1Endproject2\bin\Debug\phase1Endproject2.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\phase1Endproject2\phase1Endproject2\obj\Debug\phase1Endproject2.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\phase1Endproject2\phase1Endproject2\obj\Debug\phase1Endproject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\phase1Endproject2\phase1Endproject2\obj\Debug\phase1Endproject2.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\phase1Endproject2\phase1Endproject2\obj\Debug\phase1Endproject2.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\phase1Endproject2\phase1Endproject2\obj\Debug\phase1Endproject2.pdb
